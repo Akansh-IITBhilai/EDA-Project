@@ -1,0 +1,16 @@
+📊 Project Summary: EDA Dashboard using Streamlit
+I developed a dynamic, user-friendly dashboard for Exploratory Data Analysis (EDA) using Python, Streamlit, and data visualization libraries such as Matplotlib and Seaborn. The tool empowers users—both technical and non-technical—to upload datasets and generate insightful plots with minimal effort.
+🎯 Key Features:
+- Intuitive UI: Built with Streamlit, featuring sidebar navigation, stylish layout, and custom CSS for a polished look.
+- Flexible Dataset Handling: Supports both CSV and Excel uploads, with a built-in fallback to a default dataset.
+- Visualization Options: Includes bar charts, pie charts, histograms, KDE distributions, boxplots, heatmaps, and cross-tabulation plots.
+- Outlier Treatment: Integrates IQR-based logic to detect and correct outliers with comparative visualizations (before vs. after).
+- Interactive Experience: Users can select plot types and columns dynamically, allowing for tailored analysis.
+- Built-In Appreciation Section: Adds a personal touch by acknowledging my family's support, demonstrating soft skills and gratitude.
+🧠 Technologies Used:
+- Python for scripting
+- Pandas & NumPy for data manipulation
+- Matplotlib & Seaborn for plotting
+- Streamlit for rapid prototyping and deployment
+🚀 Outcome:
+This project showcases my ability to combine technical data analysis with frontend design and user experience. It reflects my passion for building accessible, data-driven tools that simplify complex tasks and foster deeper understanding.
